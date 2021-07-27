@@ -3,7 +3,9 @@ https://Freepoint24.github.io/rsschool-cv/cv
 package main
 
 import (
-	"fmt"
+
+"fmt"
+
 )
 
 func main() {
