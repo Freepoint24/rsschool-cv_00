@@ -8,6 +8,7 @@ Alexandr Romanov
 + Github: https://github.com/Freepoint24
 
 ### Skills:
++ JavaScript/Front-end
 + Go
 + Linux, GIT, Docker
 
